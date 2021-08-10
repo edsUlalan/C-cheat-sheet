@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int StartLives = 3; // this is a  global variable
-auto pi = 3.141593;
+auto pi = 3.141593; // this is an auto feature
 
 int main()
 
