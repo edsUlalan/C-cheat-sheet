@@ -3,7 +3,7 @@ using namespace std;
 int StartLives = 3; // this is a  global variable
 auto pi = 3.141593; // this is an auto feature
 
-int main()
+int main ()
 
 {
   double area, radius = 1.5;

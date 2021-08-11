@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main ()
 {
   //My first C++ program
   cout << "Hello, world!\n";

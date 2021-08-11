@@ -3,7 +3,7 @@ using namespace std;
 double PI = 3.141592653589793238463;
 typedef int metres; // create own datatype
 
-int main()
+int main ()
 {
   cout.precision(22);
   cout << PI;
