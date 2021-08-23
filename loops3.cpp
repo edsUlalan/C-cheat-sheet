@@ -30,4 +30,20 @@ int main ()
   }
   cout << "\nFactorial of "<< n <<" = "<< fact << endl;
   return 0;
+
+  // example of a loop displaying the multiplication tables of a user inputted number
+  int n;
+
+  cout << "Enter a number to view its times table: ";
+  cin >> n;
+  for (int i = 1; i <= 12; ++i) {
+    cout << n << " x " << i << " = " << n * i << endl;
+  }
+  return 0
+
+  // using float datatype
+  for (float i = 0.00l i < 1.00; i += 0.01) {
+    cout << i << endl;
+  }
+  return 0;
 }
