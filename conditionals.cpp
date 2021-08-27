@@ -26,4 +26,20 @@ int main () {
     cout << "\nGood bye\n" << endl;
     return 0;
   }
+
+  // if else statement
+  int num;
+
+  cout << "Enter a numbers: ";
+  cin >> num;
+  
+  if (num < 30)
+  {
+    cout << "The number is less than 30!" << endl;
+  }
+  else
+  {
+    cout << "The number is greater than 30!" << endl;
+  }
+  return 0;
 }
